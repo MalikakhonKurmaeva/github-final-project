@@ -1,2 +1,3 @@
 https://github.com/MalikakhonKurmaeva/github-final-project/edit/main/README.md
 https://github.com/MalikakhonKurmaeva/github-final-project/blob/main/LICENSE
+https://github.com/MalikakhonKurmaeva/github-final-project/blob/main/CODE_OF_CONDUCT.md
